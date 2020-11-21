@@ -1,0 +1,14 @@
+{
+  "name": "@vpatryshev/finger-trees-in-js",
+  "main": "d63ecf9c64f96abd@3575.js",
+  "version": "3575.0.0",
+  "homepage": "https://observablehq.com/@vpatryshev/finger-trees-in-js",
+  "author": {
+    "name": "Vlad Patryshev",
+    "url": "https://observablehq.com/@vpatryshev"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
